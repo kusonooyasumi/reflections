@@ -16,4 +16,5 @@ Reflections is a python script made for the purpose of seeing if there are any r
 This tool can be used in conjunction with a tool like Arjun to find parameters to test for Reflected XSS vulnerabilities
 
 `-i`: use single url as input
+
 `-f`: use a file of urls as input
